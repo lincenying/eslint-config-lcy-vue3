@@ -14,9 +14,9 @@
   "author": "LinCenYing",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lincenying/eslint-config-lcy-vue/issues"
+    "url": "https://github.com/lincenying/eslint-config-lcy-vue3/issues"
   },
-  "homepage": "https://github.com/lincenying/eslint-config-lcy-vue#readme",
+  "homepage": "https://github.com/lincenying/eslint-config-lcy-vue3#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.54.1",
     "@typescript-eslint/parser": "^5.54.1",
