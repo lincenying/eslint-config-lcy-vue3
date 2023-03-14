@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-lcy-vue3",
+  "version": "1.0.2",
+  "description": "eslint config for vue.js projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincenying/eslint-config-lcy-vue3.git"
+  },
+  "keywords": [
+    "eslint",
+    "vue3"
+  ],
+  "author": "LinCenYing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lincenying/eslint-config-lcy-vue/issues"
+  },
+  "homepage": "https://github.com/lincenying/eslint-config-lcy-vue#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@typescript-eslint/parser": "^5.54.1",
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-html": "^7.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.9.0",
+    "prettier": "^2.8.4",
+    "vue-eslint-parser": "^9.1.0"
+  }
+}
