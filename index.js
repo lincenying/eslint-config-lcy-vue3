@@ -70,7 +70,6 @@ module.exports = {
     "no-confusing-arrow": 2,
     "no-console": 0,
     "no-div-regex": 2,
-    "no-duplicate-imports": 2,
     "no-else-return": 2,
     "no-empty-label": 0,
     "no-empty": 0,
@@ -126,7 +125,9 @@ module.exports = {
     "arrow-parens": [2, "as-needed"],
     "generator-star-spacing": [2, "before"],
 
+    "no-duplicate-imports": "off",
     // ts
+    "@typescript-eslint/no-duplicate-imports": "error",
     "@typescript-eslint/ban-ts-comment": "off",
     "@typescript-eslint/no-unused-vars": "off",
     '@typescript-eslint/no-empty-function': 'off',
